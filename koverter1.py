@@ -3,7 +3,7 @@ def konv(a, b, c):
 	return a* p[b]/ p[c]
 
 print 'Please enter value'
-x= float(raw_input())
+x = float(raw_input())
 print 'First unit of measurement (m, km, au, ly, pc )'
 p1= raw_input()
 print 'Second unit of measurement (m, km, au, ly, pc )'
