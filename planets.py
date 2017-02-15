@@ -12,10 +12,10 @@ planets = {
         'Name': 'Venera',
         'Distance': 108 * (10 ** 6),
         'Satellite': [],  # {'Name':'ups'},
-        'Weight': 4.8675 * (10 ** 24),      # kg
-        'The first cosmic speed': 7.328,    # km/s
-        'The second cosmic speed': 10.363,  # km/s
-        'Average radius': 6051.8           # km
+        'Weight': 4.8675 * (10 ** 24),        # kg
+        'The first cosmic speed': 7.328,      # km/s
+        'The second cosmic speed': 10.363,    # km/s
+        'Average radius': 6051.8              # km
     },
     '3': {
         'Name': ' Earth ',
@@ -114,3 +114,4 @@ planets = {
         'Speed': 550 #km/s
     }   
 }
+raw_input()
