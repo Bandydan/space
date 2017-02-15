@@ -2,7 +2,7 @@ planets = {
     '1': {
         'Name': ' Mercury ',
         'Distance': 58 * (10 ** 6),
-        'Satellite': [],  # {'Name':'ups'},
+        'Satellite': [],                    # {'Name':'ups'},
         ' Weight ': 3.33022 * (10 ** 23),   # kg
         'The first cosmic speed': 3.1,      # km/s
         'The second cosmic speed': 4.25,    # km/s
