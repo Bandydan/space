@@ -1,4 +1,4 @@
-planets = {
+planets = { #QWERTYUIOPASDFGHJK
     '1':{
         'Name': 'Mercury',
         'Distance': 58*(10**6),
