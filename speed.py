@@ -16,7 +16,5 @@ def speed(i):
  else:
     i = V4
  return i   
-
 i = float(raw_input("Enter your speed:  "))
-
 print speed(i)
