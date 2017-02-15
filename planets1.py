@@ -2,20 +2,20 @@ planets = {
     '1': {
         'Name': ' Mercury ',
         'Distance': 58 * (10 ** 6),
-        'Satellite': [],                    # {'Name':'ups'},
-        ' Weight ': 3.33022 * (10 ** 23),   # kg
-        'The first cosmic speed': 3.1,      # km/s
-        'The second cosmic speed': 4.25,    # km/s
-        'Average radius': 2439.7            # km
+        'Satellite': [],                      # {'Name':'ups'},
+        ' Weight ': 3.33022 * (10 ** 23),     # kg
+        'The first cosmic speed': 3.1,        # km/s
+        'The second cosmic speed': 4.25,      # km/s
+        'Average radius': 2439.7              # km
     },
     '2': {
         'Name': 'Venera',
         'Distance': 108 * (10 ** 6),
         'Satellite': [],  # {'Name':'ups'},
-        'Weight': 4.8675 * (10 ** 24),      # kg
-        'The first cosmic speed': 7.328,    # km/s
-        'The second cosmic speed': 10.363,  # km/s
-        'Average radius': 6051.8            # km
+        'Weight': 4.8675 * (10 ** 24),        # kg
+        'The first cosmic speed': 7.328,      # km/s
+        'The second cosmic speed': 10.363,    # km/s
+        'Average radius': 6051.8              # km
     },
     '3': {
         'Name': ' Earth ',
