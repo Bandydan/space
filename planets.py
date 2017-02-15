@@ -109,4 +109,8 @@ planets = {
         'The second cosmic speed': 1.210,    # km/s
         'Average radius': 1187              # km
     },
+    '10': {
+        'Name': 'Galaxy - Milky Way',
+        'Speed': 550 #km/s
+    }   
 }
