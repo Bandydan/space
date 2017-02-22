@@ -111,7 +111,7 @@ planets = {
     },
     '10': {
         'Name': 'Galaxy - Milky Way',
-        'Speed': 550 #km/s
-    }   
+        'Speed': 550  # km/s
+    }
 }
 raw_input()
